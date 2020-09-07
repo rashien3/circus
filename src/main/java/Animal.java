@@ -1,4 +1,4 @@
-public abstract class Animal implements Asset {
+public class Animal {
     
     public String speak(){
         return null;
